@@ -1,0 +1,14 @@
+Script started on Mon Oct 10 12:25:47 2022
+Restored session: Mon Oct 10 12:21:10 EEST 2022
+[1m[7m%[27m[1m[0m                                                                                                                                       ]7;file://Anttis-MacBook-Pro.local/Users/anttihalmetoja/training/fullstack-2021/osa12/part12-containers-applications[0m[27m[24m[Janttihalmetoja@Anttis-MacBook-Pro part12-containers-applications % [K[?2004h[7mdocker container run -it ubuntu bash[27m[36D[27md[27mo[27mc[27mk[27me[27mr[27m [27mc[27mo[27mn[27mt[27ma[27mi[27mn[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27ms[27mh[?2004l
+[?2004h]0;root@66471d805bda: /root@66471d805bda:/# [K]0;root@66471d805bda: /root@66471d805bda:/# mkdir [7m/usr/src/app[27m/usr/src/app
+[?2004l[?2004h]0;root@66471d805bda: /root@66471d805bda:/# touch [7m/usr/src/app/index.js[27m/usr/src/app/index.js
+[?2004l[?2004h]0;root@66471d805bda: /root@66471d805bda:/# [Kexit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                                                                       ]7;file://Anttis-MacBook-Pro.local/Users/anttihalmetoja/training/fullstack-2021/osa12/part12-containers-applications[0m[27m[24m[Janttihalmetoja@Anttis-MacBook-Pro part12-containers-applications % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Mon Oct 10 12:26:53 2022
