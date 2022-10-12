@@ -1,0 +1,7 @@
+PUT http://localhost:3000/todos/6345083953e4a33dac2a50fe
+Content-Type: application/json
+
+{
+    "text": "muutettu teksti",
+    "done": false
+}
